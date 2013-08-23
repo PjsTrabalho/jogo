@@ -1,0 +1,9 @@
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\bin\Debug\Jogo De Azar.exe.config
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\bin\Debug\Jogo De Azar.exe
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\bin\Debug\Jogo De Azar.pdb
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\obj\Debug\Jogo De Azar.csprojResolveAssemblyReference.cache
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\obj\Debug\Jogo_De_Azar.Form1.resources
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\obj\Debug\Jogo_De_Azar.Properties.Resources.resources
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\obj\Debug\Jogo De Azar.csproj.GenerateResource.Cache
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\obj\Debug\Jogo De Azar.exe
+c:\users\bruno silva\documents\visual studio 2012\Projects\Jogo De Azar\Jogo De Azar\obj\Debug\Jogo De Azar.pdb
